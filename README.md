@@ -1,7 +1,7 @@
 # nyu-travis-ci
 
-[![Build Status](https://travis-ci.org/rofrano/nyu-lab-travis-ci.svg?branch=master)](https://travis-ci.org/rofrano/nyu-lab-travis-ci)
-[![Codecov](https://img.shields.io/codecov/c/github/rofrano/nyu-lab-travis-ci.svg)]()
+[![Build Status](https://travis-ci.org/samuelsmithhk/nyu-lab-travis-ci.svg?branch=master)](https://travis-ci.org/samuelsmithhk/nyu-lab-travis-ci)
+[![Codecov](https://img.shields.io/codecov/c/github/samuelsmithhk/nyu-lab-travis-ci.svg)]()
 
 NYU DevOps lab on using Travis CI with Redis for Continuous Integration
 
